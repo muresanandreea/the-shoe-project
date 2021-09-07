@@ -1,0 +1,45 @@
+{ "shoes": [
+  {
+    "id": 1,
+    "name": "Silver sandals",
+    "imageUrl":"https://cdn.glitch.com/50b62c15-a1f8-4323-9b23-28c86a01ea08%2FsandaleSilver.jpeg?v=1630045647100",
+    "color": "silver",
+    "size": 37
+  },
+  {
+    "id": 2,
+    "name": "Black sandals",
+    "imageUrl":"https://cdn.glitch.com/50b62c15-a1f8-4323-9b23-28c86a01ea08%2FsandaleNegre.jpeg?v=1630045636526",
+    "color": "black",
+    "size": 37
+  },
+  {
+    "id": 3,
+    "name": "Yellow simple sandals",
+    "imageUrl":"https://cdn.glitch.com/50b62c15-a1f8-4323-9b23-28c86a01ea08%2FsandaleGalbene.jpeg?v=1630045619096 ",
+    "color": "yellow",
+    "size": 38
+  },
+  {
+    "id": 4,
+    "name": "Nude simple sandals",
+    "imageUrl":"https://cdn.glitch.com/50b62c15-a1f8-4323-9b23-28c86a01ea08%2FsandaleNude.jpeg?v=1630045641932",
+    "color": "nude",
+    "size": 36
+  },
+  {
+    "id": 5,
+    "name": "Nude comfortable sandals",
+    "imageUrl":"https://cdn.glitch.com/50b62c15-a1f8-4323-9b23-28c86a01ea08%2FsandaleBej.jpeg?v=1630045612975",
+    "color": "nude",
+    "size": 38
+  },
+  {
+    "id": 6,
+    "name": "Golden sandals without heel",
+    "imageUrl":"https://cdn.glitch.com/50b62c15-a1f8-4323-9b23-28c86a01ea08%2FsandaleGolden.jpeg?v=1630045629824",
+    "color": "golden",
+    "size": 38
+  }
+]
+}
