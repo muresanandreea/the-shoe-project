@@ -8,6 +8,10 @@ const fs = require("fs");
 
 console.log("running server");
 
+app.get("/", (req, res) => {
+    res.sendFile(path.join(__dirname, "shoes.json"));
+});
+
 app.get("/shoes", (req, res) => {
     res.sendFile(path.join(__dirname, "shoes.json"));
 });
